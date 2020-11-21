@@ -1,0 +1,23 @@
+Angular Language Service /auto complete за имената на променливите/
+TSLint /подобно на compile error във Visual Studio показва грешки и варианти за поправяне/
+Angular Snipets /пишем a- и с Tab довършваме каквотоискамеда напишем/
+Angular Files /бързо Скафолдва файлове ... десенбутон Generate Component/
+TypeLens /показва референциите към нещото/
+Types Auto Installer /за да имаме auto complete за всички инсталирани пакети/
+Switcher /с десен бутон на мишката ходим в .html .ts и т.н./
+Auto Import /Автоматично пише импортите на нещата коитотрябва да се импортнат/
+Path Intellisense /   ./ показва текущата папка  или ../ показва по горната папка   /
+Settings SYnc /на база на GitHub файл синхронизира Настройкте и Extenшъните за VS Code на различни компютри Ctr Shift P Sync/
+
+CLI
+ng new my-app /създава проект/
+
+Chrome
+Augury
+
+CompoDoc
+npm install -g @compodoc/compodoc
+прави документация на програмката.
+
+Angular Material Design
+awesome angular components
